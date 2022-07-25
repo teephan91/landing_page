@@ -171,3 +171,18 @@ h2 {
     border: 2px solid #ffffff;
     border-radius: 10px;
 }
+
+/* Footer stylings */
+
+footer {
+    background-color: #7a7a7a;
+    text-align: center;
+    padding: 50px 0;
+}
+
+footer p {
+    margin: 0; 
+    font-family: Lato, sans-serif;
+    font-size: 18px;
+    color: #ffffff;
+}
