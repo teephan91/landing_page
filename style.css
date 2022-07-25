@@ -13,9 +13,9 @@ body {
 
 header {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
-    padding: 20px;
+    padding: 20px 300px;
 }
 
 ul {
@@ -32,4 +32,42 @@ ul {
 .header-image {
     height: auto;
     width: 340px;
+}
+
+/* Section 1 stylings */
+
+.section-1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #eeeeee;
+    padding: 40px 300px;
+}
+
+h1 {
+    font-family: 'Russo One', sans-serif;
+    font-size: 48px;
+    margin: 0;
+}
+
+.section-1-para {
+    font-family: Lato, sans-serif;
+    font-size: 18px;
+    color: #6b6b6b;
+}
+
+.section-1-bt {
+    background-color: #66101f;
+    color: #ffffff;
+    font-family: Lato, sans-serif;
+    font-size: 18px;
+    padding: 5px 20px;
+    border: none;
+    border-radius: 10px;
+}
+
+.section-1-image {
+    height: auto;
+    width: 640px;
+    margin-left: 100px;
 }
