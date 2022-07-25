@@ -71,3 +71,39 @@ h1 {
     width: 640px;
     margin-left: 100px;
 }
+
+/* Section 2 stylings */
+
+.section-2 {
+    padding: 40px 0 100px;
+}
+
+h2 {
+    font-family: 'Russo One', sans-serif;
+    font-size: 36px;
+    text-align: center;
+    margin:0 0 30px;
+}
+
+.section-2-image {
+    height: auto;
+    width: 250px;
+    border-radius: 10px;
+}
+
+.section-2-para {
+    font-family: Lato, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: #66101f;
+}
+
+.section-2-container {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.section-2-container div {
+    text-align: center;
+}
