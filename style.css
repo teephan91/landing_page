@@ -9,6 +9,23 @@ body {
     margin: 0;
 }
 
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: inherit;
+}
+
+a:hover {
+    color: #e8bf52;
+}
+
+button:hover {
+    color: black;
+    background-color: #e8bf52;
+}
+
 /* Header stylings */
 
 header {
@@ -170,6 +187,10 @@ h2 {
     padding: 5px 20px;
     border: 2px solid #ffffff;
     border-radius: 10px;
+}
+
+.section-4-bt:hover {
+    border-color: black;
 }
 
 /* Footer stylings */
