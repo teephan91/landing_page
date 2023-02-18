@@ -1,10 +1,14 @@
-# landing_page
+# Landing_Page
+![landing_page_screenshot](https://user-images.githubusercontent.com/101987153/219885487-42f2a3d4-b208-4240-aa68-99d9b1ef1f0a.JPG)
+
 ## About
 A typical homepage with its header, footer, and different sections in between. Each section will have a mixture of text, links, images, and buttons.
 
+**[CLICK HERE TO VIEW THE PROJECT](https://teephan91.github.io/landing_page/)**
+
 ## Technology Used
-- HTML
-- CSS (Flexbox)
+- [x] ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5&logoColor=394148&color=fac60c) ► **50.1%** 
+- [x] ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3&logoColor=394148&color=fac60c) ► **49.9%** 
 
 ## What I Did
 Creating an entire webpage from scratch can be intimidating and overwhelming, especially for beginners. Therefore, I began this project by focusing on one section at a time, starting with its HTML then CSS. Only after finishing a particular section, I would then move on to the next one.
@@ -15,11 +19,28 @@ I had to google quite a bit for things like Flexbox properties, CSS declarations
 
 I too started to appreciate the **Chrome DevTools**. I used it to implement new codes to my webpage without modifying the source code. I like that DevTools showing me the padding, border, and margin of an element right on the page. It was quite handy for laying out different elements and making sure that they sit with each other nicely. Finally, DevTools helped me to figure out the CSS's cascading effect, with it conveniently crosses off the declarations that don't make it.
 
-## What's Next?
-The landing page looks good on computer's screen, but it doesn't on mobile devices'. So the next logical step is to make it mobile-friendly.
+## Installation & Set Up
+1. You have to fork this repo first. Github has a their own [step-by-step guide with pictures to follow along](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository).
+- **Note**: You have the option of changing the name of your forked repo.
+2. And to have all the files locally on your computer, open Terminal -> change the current directory to the directory you want to put this forked repo. Then, enter the command line below:
+```
+git clone https://github.com/[your-username]/landing_page.git
+```
+- **Note**: If you change the name of your forked repo, replace 'landing_page.git' with '[your-forked-repo-name].git'. Github will automatically do this for you when you copy the link.
+3. Finally, change to your new forked repo directory.
+```
+cd landing_page
+```
+or
+```
+cd [your-forked-repo-name]
+```
 
-## Image Sources
+## Support
+Please feel free to reach out if you need any help with this repo. 👉🏼 therealthinhphan@gmail.com
+
+## Resources Used
 - Luis Aleman on Unsplash
 - Gonzalo Guzman, Luis Quintero, Dids, and Isaac Taylor on Pexels
 
-[CLICK HERE TO VIEW THE PROJECT](https://teephan91.github.io/landing_page/)
+### Have a good one! 👍🏼
